@@ -1,3 +1,4 @@
 # learning
 
-learning going fine
+changed after learning commands!
+
